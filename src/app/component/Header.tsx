@@ -4,7 +4,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div className='bg-cyan-300  shadow-lg '>
-<nav className='flex justify-between h-20 px-10 items-center  text-white'>
+<nav className='flex justify-between h-20 px-6 md:px-10 items-center  text-white'>
 <div className='flex gap-1 items-center'>
     <Image
     className='w-[44px] h-[44px]'
@@ -22,7 +22,7 @@ const Header = () => {
     src={'/image/logoText.png'}
     />
 </div>
-<ul className=' justify-center i text-medium flex gap-16'>
+<ul className=' justify-center i text-medium flex gap-6 md:gap-16'>
 <li>
    Home 
 </li>
