@@ -33,7 +33,7 @@ const ImageCarousel = () => {
     '/image/img11.jpg',
     '/image/img12.jpg',
     '/image/img13.jpg',
-    '/image/Main Image4.jpg',
+    '/image/Main Image4.png',
     '/image/img14.jpg',
     '/image/img15.jpg',
   ];
